@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "mainwindow.py", line 8, in <module>
+  File "<loader>", line 10, in <module>
+  File "<loader>", line 8, in __load
+ImportError: (No module named 'PyQt5.sip') 'D:\\Face_Detection_PyQt_Final\\dist\\PyQt5.QtWidgets.pyd'
