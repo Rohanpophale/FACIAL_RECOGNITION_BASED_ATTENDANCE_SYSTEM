@@ -33,6 +33,8 @@ RESULT:
 KEY FINDINGS: 
 
 The proposed model for taking attendance is effective in reducing extra hardware components required to take attendance. All the devices required for this purpose are already available with almost everyone in the present day and age. 
+
+OUTPUT: 
 ![image](https://github.com/Rohanpophale/FACIAL_RECOGNITION_BASED_ATTENDANCE_SYSTEM/assets/97818946/955ceb03-fdb4-4371-a7e2-b7c6325f1bd2)
 
 ![image](https://github.com/Rohanpophale/FACIAL_RECOGNITION_BASED_ATTENDANCE_SYSTEM/assets/97818946/38fac0f6-b46f-437b-b989-8841e0f1d710)
