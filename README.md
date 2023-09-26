@@ -53,4 +53,5 @@ OUTPUT:
 
 ![image](https://github.com/Rohanpophale/FACIAL_RECOGNITION_BASED_ATTENDANCE_SYSTEM/assets/97818946/5dc00480-b16b-4934-9193-7a8f9047792a)
 
+HOW TO RUN:
 
