@@ -17,18 +17,23 @@ STEP1 : Image Acquisition
   Our proposed system uses a camera mounted at a proper place for acquiring students’ face images in a controlled environment.
   
 STEP2 : Image Pre-processing
+
   For image pre-processing, histogram equalization is used to enhance input image quality.
   
 STEP3 : Face Detection
+
   Face is detected from the image using Viola-Jones and HAAR Cascade algorithm.
   
 STEP4 : Feature Extraction 
+
   The features are extracted and the feature vectors dimensionality is reduced using the LDA algorithm.
   
 STEP5 :Face Recognition
+
   With the help of LDA, SVM and KNN are used to classify images for face recognition purpose.
   
 STEP6 :Mark Attendance 
+
   If a match is found in the database, then it will automatically mark the student’s attendance in the Excel Sheet, as per lecture name and time. Else, it will display an error and attendance will not be marked.
 
 RESULT:
@@ -40,6 +45,7 @@ KEY FINDINGS:
 The proposed model for taking attendance is effective in reducing extra hardware components required to take attendance. All the devices required for this purpose are already available with almost everyone in the present day and age. 
 
 OUTPUT: 
+
 
 ![image](https://github.com/Rohanpophale/FACIAL_RECOGNITION_BASED_ATTENDANCE_SYSTEM/assets/97818946/955ceb03-fdb4-4371-a7e2-b7c6325f1bd2)
 
