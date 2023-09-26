@@ -54,4 +54,17 @@ OUTPUT:
 ![image](https://github.com/Rohanpophale/FACIAL_RECOGNITION_BASED_ATTENDANCE_SYSTEM/assets/97818946/5dc00480-b16b-4934-9193-7a8f9047792a)
 
 HOW TO RUN:
+Download the following
+1. OpenCV (cv2): Computer vision library for image and video processing.
+2. face_recognition: Python library for face detection and recognition.
+3. NumPy: Fundamental package for scientific computing with Python.
+4. datetime: Module for date and time manipulation in Python.
+5. os: Module for interacting with the operating system.
+6. CSV: Module for reading and writing CSV files in Python.
+7. PyQt5: Python bindings for the Qt application framework for creating graphical user interfaces.
 
+Steps
+
+1. Download the repository
+2. Open the cmd in this repository and run the command : python mainwindow.py
+3. App will run
